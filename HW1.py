@@ -1,1 +1,5 @@
+# Name: Jerrell Amari Huffman
+# Class: 6th Hour
+# Assignment: HW1
+
 print("Hello World")
