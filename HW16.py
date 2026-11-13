@@ -38,6 +38,10 @@ Sy.sort()
 print(Sy)
 #10. Create a while loop that starts at 1, prints i and then adds i to itself until it is greater than 100.
 
+for i in range(1 + i):
+    empTInt *= i
+print(empTInt)
+
 #11. Create a list containing the names of five other students in the classroom.
 
 #12. Create a for loop that individually prints out the names of each student in the list.
